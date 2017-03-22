@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.project-tagline {
+.project-name {
   text-transform: uppercase;
+  font-family: karla, sans-serif;
 }
