@@ -12,13 +12,25 @@
   background: #ffebe5;
 }
 
-.jumbotron {
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  width: 100%;
-  height: 500px;
-  background-image: url("https://unsplash.com/photos/GQD3Av_9A88");
+.hero {
+    height: 100%;
+    background-color: #e0ccc7;
+    cursor: default;
+}
+
+.hero h1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 21rem;
+    z-index: 2;
+}
+
+.hero h6 {
+    position: relative;
+    text-align: center;
+    color: white;
+    z-index: 2;
 }
 
 .site-footer-credits {
