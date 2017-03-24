@@ -126,8 +126,11 @@ nav.pinned {
     text-align: center;
     background: #ffffff;
 }
-
+.list {
+    text-align: left;
+}
 /* Effects
+
 ------------------------------------------------------------ */
 
 .grow {
